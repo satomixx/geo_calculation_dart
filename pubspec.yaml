@@ -1,0 +1,15 @@
+name: geo_vector_calculation
+description: geo_vector_calculation
+
+version: 0.0.1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  vector_math: ^2.0.8
+
+dev_dependencies:
+  build_runner: ^1.10.4
+  test: ^1.15.4
+
